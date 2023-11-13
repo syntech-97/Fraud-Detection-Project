@@ -69,6 +69,3 @@ The application uses a simple CSS file located in the `static` directory to styl
 ## Notes
 
 - Appropriate error messages are displayed to the user in case of issues with model loading or input validation.
-- Retest by clicking the "Retest" button on the result page.
-
-Feel free to customize the content based on additional information or specific instructions you want to include in your README.md file.
