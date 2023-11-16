@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Web App
 
-This web application utilizes a machine learning model to predict whether a given set of features represents a fraudulent credit card transaction. Users can input the 30 feature values through a web form, and the application provides the prediction result.
+Welcome to the Credit Card Fraud Detection Web App! This application utilizes a machine learning model to predict whether a given set of features represents a fraudulent credit card transaction. Users can input the 30 feature values through a user-friendly web form, and the application provides instant prediction results.
 
 ## Directory Structure
 
@@ -20,25 +20,25 @@ This web application utilizes a machine learning model to predict whether a give
 
 ## Setup and Usage
 
-1. **Install Dependencies:**
+### Install Dependencies:
 
-   ```
-   pip install Flask pandas numpy scikit-learn
-   ```
+```bash
+pip install Flask pandas numpy scikit-learn
+```
 
-2. **Run the Flask Application:**
+### Run the Flask Application:
 
-   ```
-   python app.py
-   ```
+```bash
+python app.py
+```
 
-3. **Open the Web Application:**
+### Open the Web Application:
 
-   Open your web browser and navigate to [http://localhost:5000/](http://localhost:5000/).
+Open your web browser and navigate to [http://localhost:5000/](http://localhost:5000/).
 
-4. **Make Predictions:**
+### Make Predictions:
 
-   Enter the 30 feature values in the provided text area and click the "Predict" button.
+Enter the 30 feature values in the provided text area and click the "Predict" button.
 
 ## Files
 
@@ -64,8 +64,10 @@ The error page template displayed in case of any errors during input processing 
 
 ## Styling
 
-The application uses a simple CSS file located in the `static` directory to style the web pages.
+The application uses a simple CSS file located in the static directory to style the web pages.
 
 ## Notes
 
 - Appropriate error messages are displayed to the user in case of issues with model loading or input validation.
+
+Feel free to explore the application at [https://syntech97.pythonanywhere.com/](https://syntech97.pythonanywhere.com/) and experience the Credit Card Fraud Detection in action!
